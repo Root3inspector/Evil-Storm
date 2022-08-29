@@ -10,5 +10,6 @@ feature :
 
 
 installation 
--$ chmod +x install.sh
--$ sudo bash install.sh
+
+$ chmod +x install.sh
+$ sudo bash install.sh
