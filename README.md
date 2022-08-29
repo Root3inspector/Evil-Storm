@@ -1,6 +1,6 @@
 # Evil-Storm
 THis tool can create Fake Acces point with 
-feature :
+features :
 - Create Fake AP with a specific name and password
 - Dns spoofing (not completed)
 - ARP spoofing 
