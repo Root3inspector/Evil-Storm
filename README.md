@@ -6,7 +6,7 @@ features :
 - ARP spoofing 
 - Reverce shell
 - give the Victim Acces to the Internet after connect to your Fake AP
-- see all websites victim open it you are the Router
+- see all websites victim open it (you are the Router)
 
 
 installation 
